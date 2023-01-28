@@ -1,1 +1,1 @@
-#Music sequencer assignment for CSCA48
+## Music sequencer assignment for CSCA48
